@@ -1,0 +1,5 @@
+Use this command to download all the packages
+
+####pip install opencv-python cvzone ultralytics
+
+make sure you have python and pip command 
